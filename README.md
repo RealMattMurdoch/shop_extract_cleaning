@@ -1,4 +1,9 @@
-# Project involving Data cleaning, manipulation and basic visualisation 
-### Using extract of online store data from 2020
+# Project involving 
+* Data cleaning
+* Manipulation
+* Linear regression for predictive analytics
+* & basic visualisation
 
-Used basic visualisations to check outputs before furthering analysing and visualising in Tableau
+## Data
+### Main: Using extract of 1000 online retail stores from 2020
+### Regression: Figures from 2018 - 2024 taken from zalando (https://corporate.zalando.com/)
