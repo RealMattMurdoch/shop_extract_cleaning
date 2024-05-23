@@ -2,6 +2,7 @@
 * Data cleaning
 * Manipulation
 * Linear regression for predictive analytics
+* Growth rate calculations to combine with regression model
 * & basic visualisation
 
 ## Data
